@@ -122,12 +122,7 @@ int number = input. nextInt();
 System.out.println("You entered " + number);
   String s=String.valueOf(number);
   convert_to_words(s.toCharArray());
-//convert_to_words("9923".toCharArray()); 
-//convert_to_words("523".toCharArray()); 
-//convert_to_words("89".toCharArray()); 
-//convert_to_words("8989".toCharArray()); 
-} 
+
 }
 
-// This code is contributed 
-// by Mithun Kumar 
+//By Divya Venkatesh
